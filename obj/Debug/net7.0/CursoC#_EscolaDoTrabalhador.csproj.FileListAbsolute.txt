@@ -1,0 +1,15 @@
+C:\Users\mateus.lecchi\Desktop\CursoC#_EscolaDoTrabalhador\bin\Debug\net7.0\CursoC#_EscolaDoTrabalhador.exe
+C:\Users\mateus.lecchi\Desktop\CursoC#_EscolaDoTrabalhador\bin\Debug\net7.0\CursoC#_EscolaDoTrabalhador.deps.json
+C:\Users\mateus.lecchi\Desktop\CursoC#_EscolaDoTrabalhador\bin\Debug\net7.0\CursoC#_EscolaDoTrabalhador.runtimeconfig.json
+C:\Users\mateus.lecchi\Desktop\CursoC#_EscolaDoTrabalhador\bin\Debug\net7.0\CursoC#_EscolaDoTrabalhador.dll
+C:\Users\mateus.lecchi\Desktop\CursoC#_EscolaDoTrabalhador\bin\Debug\net7.0\CursoC#_EscolaDoTrabalhador.pdb
+C:\Users\mateus.lecchi\Desktop\CursoC#_EscolaDoTrabalhador\obj\Debug\net7.0\CursoC#_EscolaDoTrabalhador.csproj.AssemblyReference.cache
+C:\Users\mateus.lecchi\Desktop\CursoC#_EscolaDoTrabalhador\obj\Debug\net7.0\CursoC#_EscolaDoTrabalhador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus.lecchi\Desktop\CursoC#_EscolaDoTrabalhador\obj\Debug\net7.0\CursoC#_EscolaDoTrabalhador.AssemblyInfoInputs.cache
+C:\Users\mateus.lecchi\Desktop\CursoC#_EscolaDoTrabalhador\obj\Debug\net7.0\CursoC#_EscolaDoTrabalhador.AssemblyInfo.cs
+C:\Users\mateus.lecchi\Desktop\CursoC#_EscolaDoTrabalhador\obj\Debug\net7.0\CursoC#_EscolaDoTrabalhador.csproj.CoreCompileInputs.cache
+C:\Users\mateus.lecchi\Desktop\CursoC#_EscolaDoTrabalhador\obj\Debug\net7.0\CursoC#_EscolaDoTrabalhador.dll
+C:\Users\mateus.lecchi\Desktop\CursoC#_EscolaDoTrabalhador\obj\Debug\net7.0\refint\CursoC#_EscolaDoTrabalhador.dll
+C:\Users\mateus.lecchi\Desktop\CursoC#_EscolaDoTrabalhador\obj\Debug\net7.0\CursoC#_EscolaDoTrabalhador.pdb
+C:\Users\mateus.lecchi\Desktop\CursoC#_EscolaDoTrabalhador\obj\Debug\net7.0\CursoC#_EscolaDoTrabalhador.genruntimeconfig.cache
+C:\Users\mateus.lecchi\Desktop\CursoC#_EscolaDoTrabalhador\obj\Debug\net7.0\ref\CursoC#_EscolaDoTrabalhador.dll
